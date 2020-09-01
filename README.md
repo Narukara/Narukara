@@ -1,16 +1,14 @@
-### Hi there 👋
+about me :arrow_heading_down:
 
-<!--
-**Narukara/Narukara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:warning: 由于过往的经历，这个人有一种骨子里的自负和傲慢，缺乏外界监督时会不由自主地表现出来；
 
-Here are some ideas to get you started:
+:warning: 同样由于过往的经历，社交能力低下；
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:warning: （持续性）懒惰、善妒、爱慕虚荣；
+
+:book: 最近在学MySQL；
+
+:computer: 最近在做个人网站；
+
+:thought_balloon: 想继续开发Spring、想在Sandglass里添加一个闹钟模块、想学esp32。
+
