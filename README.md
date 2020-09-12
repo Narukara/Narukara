@@ -6,9 +6,7 @@ about me :arrow_heading_down:
 
 :warning: （持续性）懒惰、善妒、爱慕虚荣；
 
-:book: 最近在学MySQL；
+:book: 最近在学ESP32；
 
-:computer: 最近在做个人网站；
-
-:thought_balloon: 想继续开发Spring、想在Sandglass里添加一个闹钟模块、想学esp32。
+:thought_balloon: 想继续开发Spring、想在Sandglass里添加一个闹钟模块。
 
