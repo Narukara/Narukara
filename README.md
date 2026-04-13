@@ -1,9 +1,7 @@
  ### Hi there 👋
 
-- 🔭 I’m currently working on embedded systems
-- 🌱 I’m currently learning illustration🎨🖌️
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=narukara&show_icons=true&hide_title=true&hide_border=true&theme=dracula" /><img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narukara&layout=compact&show_icons=true&hide_border=true&theme=dracula" />
+- ⚡ I am currently working in embedded software development.
+- 🌱 I am also very interested in illustration 🎨🖌️ and am trying my hand at it.
 
 <!--
 **Narukara/Narukara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
